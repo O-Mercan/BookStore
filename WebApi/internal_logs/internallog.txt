@@ -9,3 +9,15 @@
 2023-08-30 15:16:12.1457 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\omerm\source\repos\btk_Web_Api\Applications\bsStoreApp\WebApi\nlog.config
 2023-08-30 15:19:05.0067 Info AppDomain Shutting down. LogFactory closing...
 2023-08-30 15:19:05.0192 Info LogFactory has been closed.
+2023-08-30 21:40:01.2234 Info Message Template Auto Format enabled
+2023-08-30 21:40:01.3216 Info Adding target FileTarget(Name=logfile)
+2023-08-30 21:40:01.3572 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\omerm\source\repos\btk_Web_Api\Applications\bsStoreApp\WebApi\nlog.config
+2023-08-30 21:42:46.7385 Info Message Template Auto Format enabled
+2023-08-30 21:42:46.7833 Info Adding target FileTarget(Name=logfile)
+2023-08-30 21:42:46.8015 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\omerm\source\repos\btk_Web_Api\Applications\bsStoreApp\WebApi\nlog.config
+2023-08-30 21:44:15.2088 Info Message Template Auto Format enabled
+2023-08-30 21:44:15.2528 Info Adding target FileTarget(Name=logfile)
+2023-08-30 21:44:15.2705 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\omerm\source\repos\btk_Web_Api\Applications\bsStoreApp\WebApi\nlog.config
+2023-08-30 21:49:15.3795 Info Message Template Auto Format enabled
+2023-08-30 21:49:15.4237 Info Adding target FileTarget(Name=logfile)
+2023-08-30 21:49:15.4423 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\omerm\source\repos\btk_Web_Api\Applications\bsStoreApp\WebApi\nlog.config
