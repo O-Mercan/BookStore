@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "y1cG2mYpOXN9sbX84BdwSGGS3GYhJFrBCojekgdL3VF7jkkchkUljaCgVNyC7JC8vXfyM8qJbdP3T8CRXSrs2g==",
+  "dgSpecHash": "yn9YLcj3xQeC+cv9+HvzoMpJGy4dZ6kZq4K5zVvnrXNR83HN3U+RTzAS7BJK3qdN0kSI/dJWlI28EOg2xV7NWQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\omerm\\source\\repos\\btk_Web_Api\\Applications\\bsStoreApp\\Services\\Services.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\omerm\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\omerm\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
+    "C:\\Users\\omerm\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\omerm\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.10\\microsoft.entityframeworkcore.6.0.10.nupkg.sha512",
     "C:\\Users\\omerm\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.10\\microsoft.entityframeworkcore.abstractions.6.0.10.nupkg.sha512",
     "C:\\Users\\omerm\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.10\\microsoft.entityframeworkcore.analyzers.6.0.10.nupkg.sha512",

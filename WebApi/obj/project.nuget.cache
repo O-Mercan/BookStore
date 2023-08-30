@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "LH+uEE8L7dLmGxpD+SJXNzkpRGy2fsHkWKLvPyH/H/wj/kD+unAdoQZtUDDbYp4C8v133BW3D2TXmOSRFOsuNw==",
+  "dgSpecHash": "SUubwk/XORxMBEVwe0Kg7f1vESaIgNIs0zYSgCJJfKaoJrTbKLVNSCA/BFEftUL+NTJThfCBEgnLHaochX1YnQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\omerm\\source\\repos\\btk_Web_Api\\Applications\\bsStoreApp\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\omerm\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\omerm\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "C:\\Users\\omerm\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\omerm\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\omerm\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",
