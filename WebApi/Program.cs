@@ -10,9 +10,15 @@ LogManager.LoadConfiguration(String.Concat(Directory.GetCurrentDirectory(), "/nl
 
 // Add services to the container.
 
-builder.Services.AddControllers()
-    .AddApplicationPart(typeof(Presentation.AssemblyRefence).Assembly)
-    .AddNewtonsoftJson();
+builder.Services.AddControllers(config =>
+{
+    config.RespectBrowserAcceptHeader = true;
+    config.ReturnHttpNotAcceptable = true;
+})
+.AddCustomCsvFormatter()
+.AddXmlDataContractSerializerFormatters()
+.AddApplicationPart(typeof(Presentation.AssemblyRefence).Assembly)
+.AddNewtonsoftJson();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
