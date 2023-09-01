@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "yn9YLcj3xQeC+cv9+HvzoMpJGy4dZ6kZq4K5zVvnrXNR83HN3U+RTzAS7BJK3qdN0kSI/dJWlI28EOg2xV7NWQ==",
+  "dgSpecHash": "fQ9xD1APjZPVZBpr/athRzsxb9rIdHuCrC9Vp0MnB9iFFe/T7xier0Sfw8NB9pbaauhm6u3GNfAHut+tBRouPA==",
   "success": true,
   "projectFilePath": "C:\\Users\\omerm\\source\\repos\\btk_Web_Api\\Applications\\bsStoreApp\\Services\\Services.csproj",
   "expectedPackageFiles": [
@@ -23,6 +23,7 @@
     "C:\\Users\\omerm\\.nuget\\packages\\nlog.extensions.logging\\5.1.0\\nlog.extensions.logging.5.1.0.nupkg.sha512",
     "C:\\Users\\omerm\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
     "C:\\Users\\omerm\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\omerm\\.nuget\\packages\\system.linq.dynamic.core\\1.2.23\\system.linq.dynamic.core.1.2.23.nupkg.sha512",
     "C:\\Users\\omerm\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []

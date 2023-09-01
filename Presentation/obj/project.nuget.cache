@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8zahX4AQjAAzbFFX/ItDIbQSZmsWY0mMWwbWJ27X6lJqMwTzozPQYB+lPY6UtHTJmxnLnJVr24DtcAZ832nZng==",
+  "dgSpecHash": "Ha3/rvJanRhZGgQf0QzI+bnIKvorTWsMaLvcU7yqdzg0vNurSMSZDl5yN2nHXd4SEQoqjOn42MOyDVirhJf/+A==",
   "success": true,
   "projectFilePath": "C:\\Users\\omerm\\source\\repos\\btk_Web_Api\\Applications\\bsStoreApp\\Presentation\\Presentation.csproj",
   "expectedPackageFiles": [
@@ -62,6 +62,7 @@
     "C:\\Users\\omerm\\.nuget\\packages\\system.io.filesystem\\4.0.1\\system.io.filesystem.4.0.1.nupkg.sha512",
     "C:\\Users\\omerm\\.nuget\\packages\\system.io.filesystem.primitives\\4.0.1\\system.io.filesystem.primitives.4.0.1.nupkg.sha512",
     "C:\\Users\\omerm\\.nuget\\packages\\system.linq\\4.1.0\\system.linq.4.1.0.nupkg.sha512",
+    "C:\\Users\\omerm\\.nuget\\packages\\system.linq.dynamic.core\\1.2.23\\system.linq.dynamic.core.1.2.23.nupkg.sha512",
     "C:\\Users\\omerm\\.nuget\\packages\\system.linq.expressions\\4.1.0\\system.linq.expressions.4.1.0.nupkg.sha512",
     "C:\\Users\\omerm\\.nuget\\packages\\system.objectmodel\\4.0.12\\system.objectmodel.4.0.12.nupkg.sha512",
     "C:\\Users\\omerm\\.nuget\\packages\\system.reflection\\4.1.0\\system.reflection.4.1.0.nupkg.sha512",
