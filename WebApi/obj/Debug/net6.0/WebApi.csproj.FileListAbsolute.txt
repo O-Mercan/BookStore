@@ -85,3 +85,4 @@ C:\Users\omerm\source\repos\btk_Web_Api\Applications\bsStoreApp\WebApi\bin\Debug
 C:\Users\omerm\source\repos\btk_Web_Api\Applications\bsStoreApp\WebApi\bin\Debug\net6.0\AutoMapper.dll
 C:\Users\omerm\source\repos\btk_Web_Api\Applications\bsStoreApp\WebApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\omerm\source\repos\btk_Web_Api\Applications\bsStoreApp\WebApi\bin\Debug\net6.0\System.Linq.Dynamic.Core.dll
+C:\Users\omerm\source\repos\btk_Web_Api\Applications\bsStoreApp\WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
