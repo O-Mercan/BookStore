@@ -265,3 +265,45 @@
 2023-09-05 18:20:05.5787 Info Message Template Auto Format enabled
 2023-09-05 18:20:05.7245 Info Adding target FileTarget(Name=logfile)
 2023-09-05 18:20:05.7745 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\omerm\source\repos\btk_Web_Api\Applications\bsStoreApp\WebApi\nlog.config
+2023-09-06 00:26:48.2782 Info Message Template Auto Format enabled
+2023-09-06 00:26:48.4014 Info Adding target FileTarget(Name=logfile)
+2023-09-06 00:26:48.4309 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\omerm\source\repos\btk_Web_Api\Applications\bsStoreApp\WebApi\nlog.config
+2023-09-06 00:29:10.3149 Info Message Template Auto Format enabled
+2023-09-06 00:29:10.5017 Info Adding target FileTarget(Name=logfile)
+2023-09-06 00:29:10.5620 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\omerm\source\repos\btk_Web_Api\Applications\bsStoreApp\WebApi\nlog.config
+2023-09-06 00:30:12.1578 Info Message Template Auto Format enabled
+2023-09-06 00:30:12.2509 Info Adding target FileTarget(Name=logfile)
+2023-09-06 00:30:12.3056 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\omerm\source\repos\btk_Web_Api\Applications\bsStoreApp\WebApi\nlog.config
+2023-09-06 00:34:30.5204 Info Message Template Auto Format enabled
+2023-09-06 00:34:30.6394 Info Adding target FileTarget(Name=logfile)
+2023-09-06 00:34:30.6793 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\omerm\source\repos\btk_Web_Api\Applications\bsStoreApp\WebApi\nlog.config
+2023-09-06 00:42:12.1304 Info Message Template Auto Format enabled
+2023-09-06 00:42:12.2509 Info Adding target FileTarget(Name=logfile)
+2023-09-06 00:42:12.2904 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\omerm\source\repos\btk_Web_Api\Applications\bsStoreApp\WebApi\nlog.config
+2023-09-06 00:44:16.7006 Info Message Template Auto Format enabled
+2023-09-06 00:44:16.8013 Info Adding target FileTarget(Name=logfile)
+2023-09-06 00:44:16.8403 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\omerm\source\repos\btk_Web_Api\Applications\bsStoreApp\WebApi\nlog.config
+2023-09-06 00:49:25.0044 Info Message Template Auto Format enabled
+2023-09-06 00:49:25.1427 Info Adding target FileTarget(Name=logfile)
+2023-09-06 00:49:25.1817 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\omerm\source\repos\btk_Web_Api\Applications\bsStoreApp\WebApi\nlog.config
+2023-09-06 00:50:17.5815 Info Message Template Auto Format enabled
+2023-09-06 00:50:17.7104 Info Adding target FileTarget(Name=logfile)
+2023-09-06 00:50:17.7433 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\omerm\source\repos\btk_Web_Api\Applications\bsStoreApp\WebApi\nlog.config
+2023-09-06 00:51:48.8083 Info Message Template Auto Format enabled
+2023-09-06 00:51:48.9242 Info Adding target FileTarget(Name=logfile)
+2023-09-06 00:51:48.9758 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\omerm\source\repos\btk_Web_Api\Applications\bsStoreApp\WebApi\nlog.config
+2023-09-06 00:53:42.4752 Info Message Template Auto Format enabled
+2023-09-06 00:53:42.6095 Info Adding target FileTarget(Name=logfile)
+2023-09-06 00:53:42.6468 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\omerm\source\repos\btk_Web_Api\Applications\bsStoreApp\WebApi\nlog.config
+2023-09-06 00:55:26.9905 Info Message Template Auto Format enabled
+2023-09-06 00:55:27.1430 Info Adding target FileTarget(Name=logfile)
+2023-09-06 00:55:27.1888 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\omerm\source\repos\btk_Web_Api\Applications\bsStoreApp\WebApi\nlog.config
+2023-09-06 00:56:16.7352 Info Message Template Auto Format enabled
+2023-09-06 00:56:16.9020 Info Adding target FileTarget(Name=logfile)
+2023-09-06 00:56:16.9441 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\omerm\source\repos\btk_Web_Api\Applications\bsStoreApp\WebApi\nlog.config
+2023-09-06 01:00:32.5847 Info Message Template Auto Format enabled
+2023-09-06 01:00:32.7164 Info Adding target FileTarget(Name=logfile)
+2023-09-06 01:00:32.7736 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\omerm\source\repos\btk_Web_Api\Applications\bsStoreApp\WebApi\nlog.config
+2023-09-06 01:01:11.0976 Info Message Template Auto Format enabled
+2023-09-06 01:01:11.1986 Info Adding target FileTarget(Name=logfile)
+2023-09-06 01:01:11.2336 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\omerm\source\repos\btk_Web_Api\Applications\bsStoreApp\WebApi\nlog.config

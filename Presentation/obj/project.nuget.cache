@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "/C+Nb4EOG3uDeRZeqQUCB6Ioap3DY24AnuLaX2kx4UwsVZhSF744JQPU24j8RE1vSZkhx9I/gq1Qiu3R588ibg==",
+  "dgSpecHash": "X9n3gJkWCDWu3SL7uS0IUKAA/Q9zMc5PJMJvuzQ9U8RNVlFdPF0rrjtbELvVzUchpv1z4N7mnSUw2VHTA6UxMg==",
   "success": true,
   "projectFilePath": "C:\\Users\\omerm\\source\\repos\\btk_Web_Api\\Applications\\bsStoreApp\\Presentation\\Presentation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\omerm\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\omerm\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
+    "C:\\Users\\omerm\\.nuget\\packages\\marvin.cache.headers\\6.0.0\\marvin.cache.headers.6.0.0.nupkg.sha512",
     "C:\\Users\\omerm\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\omerm\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",
     "C:\\Users\\omerm\\.nuget\\packages\\microsoft.aspnetcore.authorization\\2.2.0\\microsoft.aspnetcore.authorization.2.2.0.nupkg.sha512",
